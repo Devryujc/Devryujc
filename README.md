@@ -1,2 +1,2 @@
-## 👋 Hi, I’m Jichang
-## 👀 I’m a nuclear engineer who interested in developing radiation detector system and alogirhtms.
+### 👋 Hi, I’m Jichang
+### 👀 I am a nuclear engineer who is interested in computer simulation.
